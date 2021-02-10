@@ -24,8 +24,6 @@
 
 • Deve ser possível editar um veículo cadastrado.
 
-• Todos as entidades deverão ter um ID único do tipo UUID gerado automaticamente
-
 • Deve ser possível excluir um veículo cadastrado.
 
 • Os seguintes campos devem possuir uma máscara de formatação: data de cadastro, placa e valor de venda.
